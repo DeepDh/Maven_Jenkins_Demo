@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55757" started-at="2021-11-20T15:40:18Z" finished-at="2021-11-20T15:41:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55757" started-at="2021-11-20T15:40:18Z" finished-at="2021-11-20T15:41:13Z">
+      <class name="Maven.HandsOn.LauchBrowser2">
+        <test-method status="PASS" signature="Launch_Test()[pri:0, instance:Maven.HandsOn.LauchBrowser2@79ad8b2f]" name="Launch_Test" duration-ms="9465" started-at="2021-11-20T15:40:45Z" finished-at="2021-11-20T15:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Test -->
+      </class> <!-- Maven.HandsOn.LauchBrowser2 -->
+      <class name="Maven.HandsOn.LauchBrowser3">
+        <test-method status="PASS" signature="Launch_Test()[pri:0, instance:Maven.HandsOn.LauchBrowser3@1df82230]" name="Launch_Test" duration-ms="9952" started-at="2021-11-20T15:40:54Z" finished-at="2021-11-20T15:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Test -->
+      </class> <!-- Maven.HandsOn.LauchBrowser3 -->
+      <class name="Maven.HandsOn.LauchBrowser4">
+        <test-method status="PASS" signature="Launch_Test()[pri:0, instance:Maven.HandsOn.LauchBrowser4@22635ba0]" name="Launch_Test" duration-ms="8992" started-at="2021-11-20T15:41:04Z" finished-at="2021-11-20T15:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Test -->
+      </class> <!-- Maven.HandsOn.LauchBrowser4 -->
+      <class name="Maven.HandsOn.LauchBrowser">
+        <test-method status="PASS" signature="Launch_Test()[pri:0, instance:Maven.HandsOn.LauchBrowser@402e37bc]" name="Launch_Test" duration-ms="27304" started-at="2021-11-20T15:40:18Z" finished-at="2021-11-20T15:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Test -->
+      </class> <!-- Maven.HandsOn.LauchBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
